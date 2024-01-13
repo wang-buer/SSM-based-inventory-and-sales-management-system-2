@@ -1,10 +1,10 @@
-# 基于SSM的进存销管理系统
+# 基于SSM的进存销管理系统2
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**进存销2** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**进存销**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -33,37 +33,29 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081236758.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208081236758.jpg)
 
 ### 4.2 功能模块
 
 ![管理员-供应商管理 ](C:/Users/X/Desktop/%E4%B8%B4%E6%97%B6/%E8%A7%86%E9%A2%91+%E6%88%AA%E5%9B%BE/%E7%AE%A1%E7%90%86%E5%91%98-%E4%BE%9B%E5%BA%94%E5%95%86%E7%AE%A1%E7%90%86%20.jpg)
 
-![管理员-角色管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081236616.jpg)
+![管理员-角色管理](https://www.codeshop.fun/Typora-Images/202208081236616.jpg)
 
-![管理员-权限管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081236436.jpg)
+![管理员-权限管理](https://www.codeshop.fun/Typora-Images/202208081236436.jpg)
 
-![管理员-进货管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081236635.jpg)
+![管理员-进货管理](https://www.codeshop.fun/Typora-Images/202208081236635.jpg)
 
-![管理员-进货退货列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081236640.jpg)
+![管理员-进货退货列表](https://www.codeshop.fun/Typora-Images/202208081236640.jpg)
 
-![管理员-退货管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081237275.jpg)
+![管理员-退货管理](https://www.codeshop.fun/Typora-Images/202208081237275.jpg)
 
-![管理员-库存盘点](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081237565.jpg)
+![管理员-库存盘点](https://www.codeshop.fun/Typora-Images/202208081237565.jpg)
 
-![管理员-销售管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081237645.jpg)
+![管理员-销售管理](https://www.codeshop.fun/Typora-Images/202208081237645.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081237864.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208081237864.jpg)
 
-![管理员-销售统计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081237080.jpg)
+![管理员-销售统计](https://www.codeshop.fun/Typora-Images/202208081237080.jpg)
 
-![管理员-商品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081238163.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**进存销2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-商品管理](https://www.codeshop.fun/Typora-Images/202208081238163.jpg)
 
